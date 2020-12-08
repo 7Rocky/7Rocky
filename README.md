@@ -34,7 +34,7 @@ const rocky = {
 	<a href="mailto:rockygitt@gmail.com" target="_blank">
 		<img alt="gmail" src="https://img.icons8.com/clouds/100/000000/gmail.png" style="padding: 5px;" width="10%">
 	</a>
-	<a href="https://www.hackerone.com/7rocky?type=user" target="_blank">
+	<a href="https://hackerone.com/7rocky?type=user" target="_blank">
 		<img alt="hackerone" src="https://img.icons8.com/clouds/344/hacking.png" style="padding: 5px;" width="10%">
 	</a>
 </p>
