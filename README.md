@@ -8,14 +8,14 @@
 const rocky = {
   bio: {
     location: 'Madrid, Spain',
-    nick: 'Rocky',
+    nick: 'Rocky' || '7Rocky',
     studies: [ 'Telecommunications Engineering', 'Cybersecurity', 'Mathematics' ]
   },
   interests: [ 'Web development', 'Computer Science', 'Cloud Computing', 'Cybersecurity', 'CTF' ],
   skills: {
     databases: [ 'MySQL', 'Cloudant', 'MongoDB', 'Redis' ],
     frameworks: [ 'Angular' ],
-    languages: [ 'JavaScript', 'Java', 'Python', 'Go', 'Matlab' ],
+    languages: [ 'JavaScript', 'Java', 'Python', 'Go', 'Bash', 'C', 'Matlab' ],
     libraries: [ 'Express', 'Flask', 'jQuery', 'Bootstrap' ],
     others: [ 'Docker', 'Kubernetes', 'LaTeX', 'Raspberry Pi', 'Arduino' ]
   }
@@ -36,5 +36,10 @@ const rocky = {
 	</a>
 	<a href="https://hackerone.com/7rocky?type=user" target="_blank">
 		<img alt="hackerone" src="https://img.icons8.com/clouds/344/hacking.png" style="padding: 5px;" width="10%">
+	</a>
+</p>
+<p align="center">
+	<a href="https://app.hackthebox.eu/profile/532274" target="_blank">
+		<img alt="hackthebox" src="https://www.hackthebox.eu/badge/image/532274">
 	</a>
 </p>
