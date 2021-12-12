@@ -22,6 +22,11 @@ const rocky = {
 }
 ```
 
+<p align="center">
+	<img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=7Rocky&theme=dark&show_icons=true&hide=issues&line_height=24">
+	<img align="center" alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=7Rocky&theme=dark&hide=HTML,TeX,R,Less&count_private=false&show_icons=true&layout=compact&langs_count=6">
+</p>
+
 ### Feel free to contact me...
 
 <p align="center">
