@@ -11,13 +11,13 @@ const rocky = {
     nick: 'Rocky' || '7Rocky',
     studies: [ 'Telecommunications Engineering', 'Cybersecurity', 'Mathematics' ]
   },
-  interests: [ 'Web development', 'Computer Science', 'Cloud Computing', 'Cybersecurity', 'CTF' ],
+  interests: [ 'Cybersecurity', 'CTF', 'Web development', 'Computer Science', 'Cloud Computing' ],
   skills: {
     databases: [ 'MySQL', 'Cloudant', 'MongoDB', 'Redis' ],
     frameworks: [ 'Angular' ],
     languages: [ 'JavaScript', 'Java', 'Python', 'Go', 'Bash', 'C', 'Matlab' ],
     libraries: [ 'Express', 'Flask', 'jQuery', 'Bootstrap' ],
-    others: [ 'Docker', 'Kubernetes', 'LaTeX', 'Raspberry Pi', 'Arduino' ]
+    others: [ 'Docker', 'Kubernetes', 'LaTeX', 'Kali Linux', 'Raspberry Pi', 'Arduino' ]
   }
 }
 ```
