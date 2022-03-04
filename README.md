@@ -15,7 +15,7 @@ const rocky = {
   skills: {
     databases: [ 'MySQL', 'Cloudant', 'MongoDB', 'Redis' ],
     frameworks: [ 'Angular' ],
-    languages: [ 'JavaScript', 'Java', 'Python', 'Go', 'Bash', 'C', 'Matlab' ],
+    languages: [ 'JavaScript', 'Java', 'Python', 'Go', 'Bash', 'C', 'Ruby', 'Matlab', 'R' ],
     libraries: [ 'Express', 'Flask', 'jQuery', 'Bootstrap' ],
     others: [ 'Docker', 'Kubernetes', 'LaTeX', 'Kali Linux', 'Raspberry Pi', 'Arduino' ]
   }
