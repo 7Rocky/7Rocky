@@ -23,7 +23,7 @@ const rocky = {
 ```
 
 <p align="center">
-	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=7Rocky&theme=dark&hide=HTML,TeX,R,Less&count_private=false&show_icons=true&layout=compact&langs_count=6">
+	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=7Rocky&theme=dark&hide=HTML,TeX,R,Less,CSS&count_private=false&show_icons=true&layout=compact&langs_count=6">
 </p>
 
 ### Feel free to contact me...
