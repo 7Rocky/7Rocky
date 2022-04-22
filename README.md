@@ -43,7 +43,7 @@ const rocky = {
 	</a>
 </p>
 <p align="center">
-	<a href="https://app.hackthebox.eu/profile/532274" target="_blank">
-		<img alt="hackthebox" src="https://www.hackthebox.eu/badge/image/532274">
+	<a href="https://app.hackthebox.com/profile/532274" target="_blank">
+		<img alt="hackthebox" src="https://www.hackthebox.com/badge/image/532274">
 	</a>
 </p>
