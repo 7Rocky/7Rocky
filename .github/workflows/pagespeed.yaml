@@ -4,7 +4,7 @@ on:
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 0 1 * *' # The 1st day of every month at 00:00 UTC
   # Allows you to run this workflow manually from the Actions tab
-  # workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   getpsresults:
