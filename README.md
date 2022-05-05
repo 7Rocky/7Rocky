@@ -26,6 +26,12 @@ const rocky = {
 	<img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=7Rocky&theme=dark&hide=HTML,TeX,R,Less,CSS&count_private=false&show_icons=true&layout=compact&langs_count=6">
 </p>
 
+<p align="center">
+	<a href="https://7rocky.github.io" target="_blank">
+		<img alt="7rocky.github.io" src="https://pagespeed-insights.herokuapp.com/?url=https://7rocky.github.io&theme=dark&categories=performance,accessibility,best-practices,seo">
+	</a>
+</p>
+
 ### Feel free to contact me...
 
 <p align="center">
@@ -42,6 +48,7 @@ const rocky = {
 		<img alt="hackerone" src="https://img.icons8.com/clouds/344/hacking.png" style="padding: 5px;" width="10%">
 	</a>
 </p>
+
 <p align="center">
 	<a href="https://app.hackthebox.com/profile/532274" target="_blank">
 		<img alt="hackthebox" src="https://www.hackthebox.com/badge/image/532274">
