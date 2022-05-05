@@ -28,7 +28,7 @@ const rocky = {
 
 <p align="center">
 	<a href="https://7rocky.github.io" target="_blank">
-		<img alt="7rocky.github.io" src="https://pagespeed-insights.herokuapp.com/?url=https://7rocky.github.io&theme=dark&categories=performance,accessibility,best-practices,seo">
+		<img alt="7rocky.github.io" src="./assets/7Rocky.svg">
 	</a>
 </p>
 
