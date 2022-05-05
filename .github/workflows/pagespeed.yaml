@@ -10,8 +10,8 @@ jobs:
   getpsresults:
     env:
       HOST: https://7rocky.github.io
-      PSURL: https://pagespeed-insights.herokuapp.com
-      PSRDESKTOP: psresultdesktop
+      URL: https://pagespeed-insights.herokuapp.com
+      RESULT: 7Rocky
       RESULTSFOLDER: assets
     runs-on: ubuntu-latest
     steps:
@@ -22,7 +22,7 @@ jobs:
     - name: Create local changes
       run: | # Have to be sure a folder is present if not, make it
           mkdir -p ${RESULTSFOLDER}
-          curl "${PSURL}/?url=${HOST}&theme=dark&categories=performance,accessibility,best-practices,seo" -so ./${RESULTSFOLDER}/${PSRDESKTOP}.svg
+          curl "${URL}/?url=${HOST}&theme=dark&categories=performance,accessibility,best-practices,seo" -so ./${RESULTSFOLDER}/${RESULT}.svg
     - name: Commit files 
       run: |
         git add .
