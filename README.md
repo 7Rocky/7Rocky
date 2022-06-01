@@ -11,7 +11,7 @@ const rocky = {
     nick: 'Rocky' || '7Rocky',
     studies: [ 'Telecommunications Engineering', 'Cybersecurity', 'Mathematics' ]
   },
-  interests: [ 'Cybersecurity', 'CTF', 'Web development', 'Computer Science', 'Cloud Computing' ],
+  interests: [ 'Cybersecurity', 'CTF', 'Web development', 'Mathematics', 'Computer Science', 'Cloud Computing' ],
   skills: {
     databases: [ 'MySQL', 'Cloudant', 'MongoDB', 'Redis' ],
     frameworks: [ 'Angular' ],
