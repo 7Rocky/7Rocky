@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hi there
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5%"> Hi there
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=7Rocky/7Rocky)
 
